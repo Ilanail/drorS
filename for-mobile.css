@@ -1,0 +1,71 @@
+@media screen and (max-width: 481px){
+
+    body {
+        background-image: url('4.jpg');
+          text-align: center;
+          background-attachment: fixed;
+          background-size: cover;
+          position: fixed;
+          font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      
+        }
+        
+      
+        h1 {
+          text-shadow: 3px 3px #f8f8f8;
+          font-weight: bold;
+          color:black;
+          text-align: center;
+          font-size: 45px;
+      
+        }
+        
+        
+        h2{
+          text-shadow: 3px 3px #f8f8f8;
+          font-size: 35px;
+      
+      
+        }
+      
+        
+        h3{
+          font-size: 35px;
+          direction: ltr;
+      
+           
+        }
+      
+        p {
+          background-color: #0a0a0a;
+          color: blanchedalmond;
+          text-align: center;
+          padding: 2% 16%;
+          line-height: 32px;
+          border-style: dotted dashed solid double;
+          border-radius: 3cm;
+          border-right-width: 3cm;
+          
+      
+        }
+      
+        #mainContent{
+            font-size: 20PX; 
+        }
+        
+         #cellphone{
+            font-size: 28px;
+            font-weight: bold;
+            }
+      
+      
+        address{
+          font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+          font-size: 20px;
+          background-color: #cfe7eb;
+          color: rgb(29, 28, 28);
+      
+      
+        }  
+  
+  }

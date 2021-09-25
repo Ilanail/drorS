@@ -1,11 +1,21 @@
- body {
+
+  html{
+    height: 100%;
+    margin: auto;
+    width: 960px;
+    overflow: scroll;
+}
+  
+
+body {
+  background-size: cover;
   background-image: url('4.jpg');
     text-align: center;
     background-attachment: fixed;
     background-size: cover;
-    position: fixed;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
+    padding: 1%;
+    
   }
   
 

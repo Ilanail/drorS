@@ -49,16 +49,16 @@ body {
     color: blanchedalmond;
     text-align: center;
     padding: 2% 16%;
-    line-height: 32%;
+    line-height: 32px;
     border-style: dotted dashed solid double;
-    border-radius: 3px;
-    border-right-width: 3px;
+    border-radius: 3cm;
+    border-right-width: 3cm;
     
 
   }
 
   #mainContent{
-      font-size: 20%; 
+      font-size: 20PX; 
   }
   
    #cellphone{

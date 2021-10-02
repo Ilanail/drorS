@@ -24,21 +24,21 @@ body {
     font-weight: bold;
     color:black;
     text-align: center;
-    font-size: 25vw;
+    font-size: 20vw;
 
   }
   
   
   h2{
     text-shadow: 3px 3px #f8f8f8;
-    font-size: 35px;
+    font-size: 15vw;
 
 
   }
 
   
   h3{
-    font-size: 35px;
+    font-size: 15vw;
     direction: ltr;
 
      
@@ -58,18 +58,18 @@ body {
   }
 
   #mainContent{
-      font-size: 20PX; 
+      font-size: 10vw; 
   }
   
    #cellphone{
-      font-size: 28px;
+      font-size: 11vw;
       font-weight: bold;
       }
 
 
   address{
     font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
-    font-size: 20px;
+    font-size: 8vm;
     background-color: #cfe7eb;
     color: rgb(29, 28, 28);
 

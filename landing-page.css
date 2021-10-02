@@ -2,17 +2,17 @@
   html{
     height: 100%;
     margin: auto;
-    width: 100%;
+    width: 960px;
     overflow: scroll;
 }
   
 
 body {
   background-size: cover;
-  background-image: url('4.jpg'); 
+  background-image: url('4.jpg');
     text-align: center;
     background-attachment: fixed;
-    background-size:100%;
+    background-size: cover;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 1%;
     
@@ -20,25 +20,25 @@ body {
   
 
   h1 {
-    text-shadow: 3% 3% #f8f8f8;
+    text-shadow: 3px 3px #f8f8f8;
     font-weight: bold;
     color:black;
     text-align: center;
-    font-size: 40px;
+    font-size: 45px;
 
   }
   
   
   h2{
     text-shadow: 3px 3px #f8f8f8;
-    font-size: 15%;
+    font-size: 35px;
 
 
   }
 
   
   h3{
-    font-size: 12%;
+    font-size: 35px;
     direction: ltr;
 
      
@@ -51,25 +51,25 @@ body {
     padding: 2% 16%;
     line-height: 32%;
     border-style: dotted dashed solid double;
-    border-radius: 3cm;
-    border-right-width: 3cm;
+    border-radius: 3px;
+    border-right-width: 3px;
     
 
   }
 
   #mainContent{
-      font-size:5%; 
+      font-size: 20%; 
   }
   
    #cellphone{
-      font-size: 8%;
+      font-size: 28px;
       font-weight: bold;
       }
 
 
   address{
     font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
-    font-size: 10%;
+    font-size: 20px;
     background-color: #cfe7eb;
     color: rgb(29, 28, 28);
 
